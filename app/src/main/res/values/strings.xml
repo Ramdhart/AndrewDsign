@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andrew Dsign</string>
+    <string name="pil1">Pisces/ Ikan</string>
+    <string name="pil2">Reptilia/ Hewan Melata</string>
+    <string name="pil3">Aves/ Burung</string>
+    <string name="pil4">Mamalia/ Menyusui</string>
+    <string name="pil5">Amfibi</string>
+</resources>
